@@ -1,7 +1,15 @@
-## Hi there 👋
+<h1>Welcome, I'm Francisco! <br/><a href="https://github.com/francisco-franco-jr">Cybersecurity Specialist</a>, <a href="https://www.linkedin.com/in/francisco-franco-696324280/">Cybersecurity Student, aspiring professional</a></h1>
 
+<h2>👨‍💻 IT / Cybersecurity Projects:</h2>
+
+- <b>Microsoft Azure SIEM Setup and Attack Map</b>
+  - [fill in the blank](https://www.google.com)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+- [linkedin](https://www.linkedin.com/in/francisco-franco-696324280/)
 <!--
-**francisco-franco-jr/francisco-franco-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
